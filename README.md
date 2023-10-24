@@ -12,7 +12,7 @@ Below is a screenshot of the console and the URL of the deployed webiste:
 
 - ![Screenshot of the console](./starter/images/Screenshot%20of%20console.png)
 
-- URL:
+- URL: https://ikran1.github.io/Console-Finances/
 
 ## Credit
 
